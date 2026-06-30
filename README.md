@@ -163,6 +163,6 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**RANJEET MADDHESHIYA**
 
 If you found this project helpful, consider giving the repository a ⭐ on GitHub!
